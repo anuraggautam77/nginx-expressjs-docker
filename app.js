@@ -14,8 +14,8 @@ router.get('/',function(req,res){
   res.sendFile(path + 'index.html');
 });
 
-router.get('/sharks',function(req,res){
-  res.sendFile(path + 'sharks.html');
+router.get('/aboutus',function(req,res){
+  res.sendFile(path + 'about.html');
 });
 
 app.use(express.static(path));
