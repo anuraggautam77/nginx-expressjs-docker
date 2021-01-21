@@ -11,7 +11,7 @@
 
 This [**Docker**](https://www.docker.com/) image allows you to create [**Expressjs**](https://expressjs.com/) web applications that run with [**Nginx**](http://nginx.org/en/) in a single container.
 
-## How to use
+## How to use-
 
 
 * You should use it as a base image for other images, using this in your `Dockerfile` for NGNIX server:
