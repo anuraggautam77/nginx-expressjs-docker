@@ -1,12 +1,20 @@
 .navbar {
     margin-bottom: 0;
-   
 }
-
+x
 body {
-    
     color: #000;
     font-family: 'Merriweather', sans-serif;
+}
+li{
+    float: left;
+    margin: 10px;
+}
+ul{
+    width: 100%;
+   display: flex;
+    list-style: none;
+    padding :0;
 }
 
 h1,
